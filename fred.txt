@@ -1,1 +1,2 @@
 fred.txt hello fred
+thisi a test
